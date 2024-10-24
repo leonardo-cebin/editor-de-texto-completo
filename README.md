@@ -1,2 +1,2 @@
 # editor-de-texto-completo
-Neste projeto, criei um editor de texto completo usando Python
+Editor e leitor de texto completo, feito em Python.
