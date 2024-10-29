@@ -1,2 +1,6 @@
 # editor-de-texto-completo
-Editor e leitor de texto completo, feito em Python.
+
+<img src="https://i.imgur.com/dxWWAJs.png"> 
+<img src="https://i.imgur.com/2AmbGCR.png"> 
+<img src="https://i.imgur.com/4CAuvoq.png"> 
+<img src="https://i.imgur.com/wSQdUpl.png"> 
