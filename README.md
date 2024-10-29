@@ -4,7 +4,7 @@
 
 [PT] Um editor de texto completo feito em Python. Suporta arquivos .bat, .dll e principalmente .txt. Diversas opções personalizáveis, com recursos de carregar e salvar funcionando perfeitamente.
 
-<img src="https://i.imgur.com/dxWWAJs.png"> 
+<img src="https://i.imgur.com/FI178ku.png"> 
 <img src="https://i.imgur.com/2AmbGCR.png"> 
 <img src="https://i.imgur.com/4CAuvoq.png"> 
 <img src="https://i.imgur.com/wSQdUpl.png"> 
