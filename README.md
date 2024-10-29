@@ -9,4 +9,4 @@
 <img src="https://i.imgur.com/4CAuvoq.png"> 
 <img src="https://i.imgur.com/wSQdUpl.png"> 
 
-<h3>There is still some work to be done. In my next update, I am going to add the feature of opening several tabs, and the ability to open multiple files at the same time.</h3>
+<h3>>  There is still some work to be done. In my next update, I am going to add the feature of opening several tabs, and the ability to open multiple files at the same time.</h3>
